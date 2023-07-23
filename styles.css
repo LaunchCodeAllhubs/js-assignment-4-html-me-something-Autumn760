@@ -11,13 +11,14 @@
 
 h3  {
 text-align: center;
-width: 120px;
+width: 160px;
 height: auto;
 border: 2px solid #302f2f;
 background: #c3b3f5;
 margin: 10px auto;
 padding: 10px;
 border-radius: 25px;
+font-size: 2em;
 }
 
 h1 {
@@ -60,6 +61,7 @@ main,
 footer {
   background-color: rgb(233, 200, 233);
   opacity: .9;
+  text-align: center;
   /* font-size: 1.6em; */
 }
 
