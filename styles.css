@@ -1,1 +1,98 @@
 /* Write your CSS here! */
+#mainHeading, h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
+  text-align: center;
+  width: 600px;
+  height: auto;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+h3  {
+text-align: center;
+width: 160px;
+height: auto;
+border: 2px solid #302f2f;
+background: #c3b3f5;
+margin: 10px auto;
+padding: 10px;
+border-radius: 25px;
+font-size: 2em;
+}
+
+h1 {
+/* text-align: center;
+color: red;
+width: 600px;
+height: auto;
+margin: 10px auto;
+padding: 10px; */
+/* border: 2px solid #302f2f;
+background: #c3b3f5;
+border-radius: 25px; */
+}
+
+#testP, .funParagraph {
+color: green;
+text-align: center;
+width: 750px;
+height: auto;
+margin: 10px auto;
+padding: 10px;
+}
+
+body {
+  width: 100%;
+  max-width: 1132px;
+  /*Part 2*/
+  margin: 8px ;
+  display: block;
+  /* margin: 0 auto; */
+  background-image: url('images/bluepink.gif');
+  background-size: 1024px;
+  font-size: 100.5%;
+  /* background-repeat: repeat; */
+  background-attachment: fixed;
+}
+
+header,
+main,
+footer {
+  background-color: rgb(233, 200, 233);
+  opacity: .9;
+  text-align: center;
+  /* font-size: 1.6em; */
+}
+
+header {
+  margin: 20px auto ;
+  padding: 1.875em 0;
+}
+
+article {
+  padding: 20px;
+  text-align: center;
+  width: 750px;
+  height: auto;
+  margin: 10px auto;
+  
+  
+}
+
+div {
+    width: 90%;
+    height: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    
+  }
+  
+img {
+background: #eeedf0;
+margin: 10px auto;
+padding: 20px 20px 75px;
+
+}
+
